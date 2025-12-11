@@ -2,4 +2,4 @@ streamlit==1.31.0
 pandas
 bcrypt
 python-dotenv==1.0.0
-libsql-client==0.4.1
+turso
